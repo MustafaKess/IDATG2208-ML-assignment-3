@@ -1,0 +1,32 @@
+# --- Data directories ---
+# Ignore all local datasets in any folder
+**/data/
+**/dataset/
+**/datasets/
+**/raw/
+
+# MNIST dataset
+**/MNIST/
+
+# CIFAR-10 dataset
+**/cifar-10-batches-py/
+**/cifar-10-python.tar.gz
+
+# --- Python cache files ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Jupyter notebooks ---
+.ipynb_checkpoints/
+
+# --- Virtual environments ---
+venv/
+env/
+.venv/
+.env/
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
