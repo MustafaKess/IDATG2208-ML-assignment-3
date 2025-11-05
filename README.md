@@ -18,19 +18,19 @@ Shortcut: [Exercise 2](exercise%202/Q2.ipynb)
 
 - **Exercise 3**: Regularization techniques using Alpha Dropout and Monte Carlo (MC) Dropout.
 
-Shortcut: [Exercise 2](exercise%203/Q3.ipynb)
+Shortcut: [Exercise 3](exercise%203/Q3.ipynb)
 
 - **Exercise 4**: Transfer Learning with pre-trained Convolutional Neural Networks.
 
-Shortcut: [Exercise 2](exercise%204/Q4.ipynb)
+Shortcut: [Exercise 4](exercise%204/Q4.ipynb)
 
 - **Exercise 5**: Training deeper CNNs on the SVHN dataset.
 
-Shortcut: [Exercise 2](exercise%205/Q5.ipynb)
+Shortcut: [Exercise 5](exercise%205/Q5.ipynb)
  
 - **Exercise 6**: CNN training with Stochastic Gradient Descent (SGD), MC Dropout, and estimation of epistemic uncertainty.
 
-Shortcut: [Exercise 2](exercise%206/Q6.ipynb)
+Shortcut: [Exercise 6](exercise%206/Q6.ipynb)
 
 ## Requirements
 - Python 3.8+
