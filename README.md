@@ -1,14 +1,44 @@
-# IDATG2208-ML-assignment-3
-Third mandatory assignment in the couse IDATG2208 Introduction to machine learning 
+# IDATG2208 Machine Learning Assignment 3
 
-Q1: Training Deep Neural Network on MNIST
+Third mandatory assignment in the course IDATG2208: Introduction to Machine Learning.
 
-Q2: Training DNN's on CIFAR-10
+This assignment focuses on Deep Neural Networks (DNNs) and Convolutional Neural Networks (CNNs), including training, regularization, transfer learning, and uncertainty estimation.
 
-Q3: Regularization with alpha dropout and MC dropout
+The datasets used in this assignment include MNIST, CIFAR-10, and SVHN.
 
-Q4: Transfer Learning with Pre-trained CNN
 
-Q5: Deeper CNN training on SVHN 
+- **Exercise 1**: Training a Deep Neural Network on the MNIST dataset.
 
-Q6: CNN with SGD, MC dropout and epistemic uncertainty 
+ Shortcut: [Exercise 1](exercise%201/Q1.ipynb)
+
+
+- **Exercise 2**: Training Deep Neural Networks on the CIFAR-10 dataset.
+
+Shortcut: [Exercise 2](exercise%202/Q2.ipynb)
+
+- **Exercise 3**: Regularization techniques using Alpha Dropout and Monte Carlo (MC) Dropout.
+
+Shortcut: [Exercise 2](exercise%203/Q3.ipynb)
+
+- **Exercise 4**: Transfer Learning with pre-trained Convolutional Neural Networks.
+
+Shortcut: [Exercise 2](exercise%204/Q4.ipynb)
+
+- **Exercise 5**: Training deeper CNNs on the SVHN dataset.
+
+Shortcut: [Exercise 2](exercise%205/Q5.ipynb)
+ 
+- **Exercise 6**: CNN training with Stochastic Gradient Descent (SGD), MC Dropout, and estimation of epistemic uncertainty.
+
+Shortcut: [Exercise 2](exercise%206/Q6.ipynb)
+
+## Requirements
+- Python 3.8+
+- Required packages:
+pytorch, torchvision, numpy, matplotlib, scikit-learn
+
+You can install all dependencies using pip:
+`pip install torch torchvision numpy matplotlib scikit-learn`
+
+For detailed assignment requirements, see: [Assignment Description](idatg2208-assignmnet-3.pdf)
+
